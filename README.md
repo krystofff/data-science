@@ -18,10 +18,12 @@ Notas personales y material complementario creado para la realización de clases
 - [Random Forest](https://github.com/krystofff/data-science/blob/master/random_forest.ipynb)
 - [Evaluando un modelo de Machine Learning](https://github.com/krystofff/data-science/blob/master/evaluacion_de_modelos.ipynb)
 
-
-
+#### Desafíos
+- [Calentando motores con Python](https://github.com/krystofff/data-science/blob/master/Desafio_1.ipynb)
 
 #### Cursos
 - [Introducción a la ciencia de datos en Python](https://www.coursera.org/learn/python-data-analysis) Universidad de Michigan
 - [Aprendizaje de máquina](https://www.coursera.org/learn/machine-learning) Universidad de Stanford
 - [Ciencia de datos en Azure](https://docs.microsoft.com/en-us/learn/certifications/azure-data-scientist) Microsoft
+
+
